@@ -50,7 +50,7 @@ if page == "🏠 Home":
     st.title("📦 Vendor Invoice Intelligence System")
 
     st.markdown("""
-    ###Freight Cost Prediction and Invoice Risk Detection
+    ### Freight Cost Prediction and Invoice Risk Detection
                 
     This dashboard helps organizations:
                 
@@ -61,7 +61,7 @@ if page == "🏠 Home":
                 
     Built using:
     - Python
-    - Padas
+    - Pandas
     - Scikit-learn
     - Streamlit
     """)

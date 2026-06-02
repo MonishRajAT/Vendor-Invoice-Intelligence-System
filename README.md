@@ -1,5 +1,7 @@
 # 📦 Vendor Invoice Intelligence System
 
+## Live demo link: https://vendor-invoice-intelligence-system-cr6hydst8dqxj3arqmkpfp.streamlit.app/
+
 ## 🚀 Overview
 
 The Vendor Invoice Intelligence System is an analytics platform I developed to help companies get a handle on their logistics costs. The core goal is to use machine learning to predict freight expenses and flag high-risk invoices before they become a financial headache.
