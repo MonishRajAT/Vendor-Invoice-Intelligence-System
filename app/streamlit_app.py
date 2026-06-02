@@ -13,7 +13,7 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("../data/cleaned_supply_chain_data.csv")
+    return pd.read_csv("data/cleaned_supply_chain_data.csv")
 df = load_data()
 
 low_threshold = df["Estimated_Freight_Cost"].quantile(0.33)
@@ -23,12 +23,12 @@ print(medium_threshold)
 
 @st.cache_resource
 def load_freight_model():
-    return joblib.load("../models/freight_model.pkl")
+    return joblib.load("models/freight_model.pkl")
 freight_model = load_freight_model()
 
 @st.cache_resource
 def load_risk_model():
-    return joblib.load("../models/risk_model.pkl")
+    return joblib.load("models/risk_model.pkl")
 risk_model = load_risk_model()
 
 # Sidebar navigation
