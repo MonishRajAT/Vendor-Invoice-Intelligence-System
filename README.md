@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-The Vendor Invoice Intelligence System is an AI-powered analytics platform I developed to help companies get a handle on their logistics costs. The core goal is to use machine learning to predict freight expenses and flag high-risk invoices before they become a financial headache.
+The Vendor Invoice Intelligence System is an analytics platform I developed to help companies get a handle on their logistics costs. The core goal is to use machine learning to predict freight expenses and flag high-risk invoices before they become a financial headache.
 
 By combining data analytics, ML, and business intelligence, the system transforms raw supply chain data into a tool for reducing auditing effort, monitoring operational risks, and making smarter business decisions.
 
