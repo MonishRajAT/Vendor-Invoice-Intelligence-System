@@ -50,7 +50,7 @@ if page == "🏠 Home":
     st.title("📦 Vendor Invoice Intelligence System")
 
     st.markdown("""
-    ### AI-Powered Freight Cost Prediction and Invoice Risk Detection
+    ###Freight Cost Prediction and Invoice Risk Detection
                 
     This dashboard helps organizations:
                 
